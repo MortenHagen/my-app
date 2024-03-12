@@ -7,7 +7,7 @@ function RandomBool () {
         <>
 <div>{(dayOrNight) ? 'Good afternoon World' : 'Good morning World'}</div>
         </>
-    )
+    ) 
 }
 
 export default RandomBool
